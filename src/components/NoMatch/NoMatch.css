@@ -1,0 +1,19 @@
+.no-match{
+    margin-left: 400px;
+}
+.no-match .block{
+   width: 100px;
+   height: 1px;
+   background-color: gray;
+}
+.error{
+    font-size: 100px;
+    color: red;
+}
+.error-p{
+    font-weight: 500;
+    color: gray;
+}
+.not__found{
+    font-size: 30px;
+}

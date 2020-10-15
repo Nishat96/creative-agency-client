@@ -1,0 +1,29 @@
+.feedback__card{
+    width: 320px;
+    height: 160px;
+    padding: 15px 20px;
+   border: 1px solid gray;
+   margin-right: 10px;
+   margin-left: 10px;
+}
+.customer__img{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.feedback__info{
+    display: flex;
+}
+.description{
+    font-size: 14px;
+
+}
+.designation{
+    font-size: 12px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.name{
+    margin-block-end: 0;
+}

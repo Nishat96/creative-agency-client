@@ -1,0 +1,7 @@
+.footer__container{
+    text-align: center;
+    margin-top: 80px;
+}
+.footer__container > h5 {
+    font-weight: 200;
+}

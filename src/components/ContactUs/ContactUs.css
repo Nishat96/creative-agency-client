@@ -1,0 +1,48 @@
+.contactUs__main{
+    background-color: #FBD062;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+}
+@media only screen and (max-width: 800px) {
+    .contactUs__section{
+       display: flex !important;
+       flex-wrap: wrap;
+    }
+}
+@media only screen and (min-width: 850px), screen and (max-width: 900px) {
+    .contactUs__section {
+       display: flex !important;
+       flex-wrap: wrap;
+    }
+}
+.contactUs__section{
+    display: flex;
+    margin-top: 100px;
+}
+.form-control{
+    width: 360px !important;
+    padding: 10px;
+}
+.contactUs__left{
+    margin-right: 30px;
+    margin-right: 20px;
+    padding: 30px;
+}
+.contactUs__left h5 {
+    font-weight: 400;
+}
+.container {
+    margin-top: 30px;
+}
+.form-group{
+    margin-bottom: 10px;
+}
+
+.send {
+    background-color: black;
+    color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 7px;
+}

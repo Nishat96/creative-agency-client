@@ -1,0 +1,23 @@
+.all_icon{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 120px;
+}
+.card__section{
+    width: 300px;
+    height: 160px;
+    margin-right: 30px;
+    margin-left: 80px;
+}
+.card__section:hover{
+    background-color: #eeeeee;
+    padding: 20px;
+}
+.title{
+    font-weight: 700 !important;
+    text-align: center;
+}
+.description{
+    color: #706f6f;
+}

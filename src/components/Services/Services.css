@@ -1,0 +1,30 @@
+.service{
+    text-align: center;
+}
+.services{
+    color: green;
+}
+.services__section{
+    margin-top: 80px;
+    padding-bottom: 40px;
+}
+.service__section{
+    display: flex;
+}
+@media only screen and (max-width: 800px) {
+    .service__section {
+       /* background-color: lightblue !important; */
+       display: flex !important;
+       flex-wrap: wrap;
+    }
+}
+@media only screen and (min-width: 850px), screen and (max-width: 900px) {
+    .service__section {
+        /* background-color: lightblue !important; */
+       display: flex !important;
+       flex-wrap: wrap;
+    }
+}
+.cardInfo__link{
+    text-decoration: none;
+}

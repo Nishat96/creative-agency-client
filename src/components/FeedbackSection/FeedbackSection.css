@@ -1,0 +1,21 @@
+.feedback__section{
+    display: flex;
+    margin-left: 70px;
+}
+@media only screen and (max-width: 800px) {
+    .feedback__section {
+       display: flex !important;
+       flex-wrap: wrap;
+    }
+}
+@media only screen and (min-width: 850px), screen and (max-width: 900px) {
+    .feedback__section {
+       display: flex !important;
+       flex-wrap: wrap;
+    }
+}
+.clients{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

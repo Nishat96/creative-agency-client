@@ -1,0 +1,11 @@
+.header-right-img{
+    width: 65%;
+}
+.header-first {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 100px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}

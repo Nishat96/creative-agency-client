@@ -1,0 +1,16 @@
+.fourth-section{
+    background-color: #161227;
+    color: white;
+    text-align: center;
+    /* height: 300px; */
+    padding-top: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.carousel-img{
+    width: 330px;
+    height: 250px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding-bottom : 30px;
+}
